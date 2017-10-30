@@ -1,0 +1,64 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl c" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="EditorCutLineBackward" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="ctrl end" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift period" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="ctrl home" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="comma" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift comma" />
+  </action>
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="multiply" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="s" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl d" />
+  </action>
+  <action id="Tool_External Tools_Emacs">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="e" />
+  </action>
+</keymap>

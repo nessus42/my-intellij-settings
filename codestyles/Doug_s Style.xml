@@ -1,0 +1,36 @@
+<code_scheme name="Doug's Style">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="8" />
+      <option name="USE_TAB_CHARACTER" value="false" />
+      <option name="SMART_TABS" value="false" />
+      <option name="LABEL_INDENT_SIZE" value="0" />
+      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </value>
+  </option>
+  <option name="RIGHT_MARGIN" value="100" />
+  <ScalaCodeStyleSettings>
+    <option name="classCountToUseImportOnDemand" value="10000" />
+    <option name="DO_NOT_ALIGN_BLOCK_EXPR_PARAMS" value="true" />
+    <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
+    <option name="KEEP_ONE_LINE_LAMBDAS_IN_ARG_LIST" value="true" />
+  </ScalaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="Groovy">
+    <indentOptions>
+      <option name="TAB_SIZE" value="8" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="true" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>

@@ -1,0 +1,12 @@
+<application>
+  <component name="ScalariformSettings">
+    <option name="alignParameters" value="true" />
+    <option name="alignSingleLineCase" value="true" />
+    <option name="alignSingleLineCaseStatementsMaxArrowIndent" value="50" />
+    <option name="doubleIndentClassDeclaration" value="true" />
+    <option name="placeScalaDocAsteriskBeneathSecondAsterisk" value="true" />
+    <option name="preserveSpaceBeforeArguments" value="true" />
+    <option name="danglingCloseParenthesis" value="Preserve" />
+    <option name="alignArguments" value="true" />
+  </component>
+</application>
