@@ -1,1 +1,6 @@
-<keymap version="1" name="Doug's Emacs+" parent="Emacs" />
+<keymap version="1" name="Doug's Emacs+" parent="Emacs">
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f" />
+  </action>
+</keymap>
