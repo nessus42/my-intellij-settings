@@ -20,6 +20,7 @@
     <keyboard-shortcut first-keystroke="alt period" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="SendEOF" />
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
