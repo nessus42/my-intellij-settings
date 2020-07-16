@@ -1,4 +1,5 @@
 <scheme name="Doug's Colors" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -83,7 +84,7 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff0600" />
+        <option name="BACKGROUND" value="ffaaa9" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
