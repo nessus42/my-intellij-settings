@@ -52,6 +52,9 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
+  <action id="Tool_External Tools_Emacs">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl e" />
+  </action>
   <action id="XDebugger.CopyValue">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
   </action>
