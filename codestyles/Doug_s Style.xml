@@ -4,10 +4,9 @@
       <option name="TAB_SIZE" value="8" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="SOFT_MARGINS" value="120" />
   <ScalaCodeStyleSettings>
     <option name="classCountToUseImportOnDemand" value="10000" />
-    <option name="DO_NOT_ALIGN_BLOCK_EXPR_PARAMS" value="true" />
     <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
     <option name="KEEP_ONE_LINE_LAMBDAS_IN_ARG_LIST" value="true" />
   </ScalaCodeStyleSettings>
