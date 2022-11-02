@@ -7,6 +7,7 @@
     <option name="RENAME_SEARCH_IN_NON_CODE_FILES" value="true" />
     <option name="INSERT_MULTILINE_QUOTES" value="false" />
     <option name="WRAP_SINGLE_EXPRESSION_BODY" value="false" />
+    <option name="DELETE_CLOSING_BRACE" value="false" />
     <option name="HANDLE_BLOCK_BRACES_INSERTION_AUTOMATICALLY" value="false" />
     <option name="SUGGEST_IN_EDITOR_DOC_RENDERING" value="false" />
     <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />

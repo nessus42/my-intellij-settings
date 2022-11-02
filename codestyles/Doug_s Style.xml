@@ -4,15 +4,12 @@
       <option name="TAB_SIZE" value="8" />
     </value>
   </option>
-  <option name="SOFT_MARGINS" value="120" />
+  <option name="SOFT_MARGINS" value="100" />
   <ScalaCodeStyleSettings>
     <option name="classCountToUseImportOnDemand" value="10000" />
     <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
     <option name="KEEP_ONE_LINE_LAMBDAS_IN_ARG_LIST" value="true" />
   </ScalaCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="Groovy">
     <indentOptions>
       <option name="TAB_SIZE" value="8" />
